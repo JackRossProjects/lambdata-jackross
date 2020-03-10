@@ -18,7 +18,7 @@ class My_Class():
 
     def check_closet(self):
         """
-        says hello
+        checks whats in your closet
         """
         print('You have ' + self.color + ' ' + self.jacket_type + '. '+
               'There are ' + str(self.in_closet) + ' in your closet.')
