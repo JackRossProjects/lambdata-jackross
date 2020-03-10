@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: jackrossprojects-lambdata
+Version: 1.0
+Summary: test package
+Home-page: https://github.com/jackrossprojects/lambdata
+Author: Jack Ross
+Author-email: jackross210@gmail.com
+License: UNKNOWN
+Description: # lambdata
+        
+        1.) Navigate to directory<br>
+        2.) pipenv install<br>
+        3.) For classes assignment - python -m my_lambdata.closet_class<br>
+        4.) NaN dropper for dataframes - python -m my_lambdata.my_script<br>
+        
+        Available at https://test.pypi.org/project/jackrossprojects-lambdata/1.0/#files
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
